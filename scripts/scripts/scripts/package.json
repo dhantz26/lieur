@@ -1,0 +1,7 @@
+{
+  "name": "verified-agent-scripts",
+  "version": "1.0.0",
+  "description": "Scripts for verification",
+  "main": "index.js",
+  "dependencies": {}
+}
